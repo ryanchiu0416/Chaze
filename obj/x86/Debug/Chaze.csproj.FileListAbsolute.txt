@@ -1,0 +1,53 @@
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\bin\Debug\Chaze.exe
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\bin\Debug\Chaze.pdb
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\obj\x86\Debug\Chaze.Form1.resources
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\obj\x86\Debug\Chaze.Properties.Resources.resources
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\obj\x86\Debug\Chaze.csproj.GenerateResource.Cache
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\obj\x86\Debug\Chaze.exe
+C:\Users\sidew\documents\visual studio 2010\Projects\Chaze\obj\x86\Debug\Chaze.pdb
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.exe
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.pdb
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.Properties.Resources.resources
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csproj.GenerateResource.cache
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.exe
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.pdb
+D:\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.exe
+D:\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.pdb
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csprojAssemblyReference.cache
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.Properties.Resources.resources
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csproj.GenerateResource.cache
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csproj.CoreCompileInputs.cache
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.exe
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.pdb
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.Chaze.resources
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.Chaze.resources
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csprojResolveAssemblyReference.cache
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.exe.config
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\FinancialMarket.dll
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\FinancialMarket.pdb
+D:\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\Chaze.exe.config
+D:\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\FinancialMarket.dll
+D:\OneDrive\UW Foster\IS320 TA\Chaze\bin\Debug\FinancialMarket.pdb
+D:\OneDrive\UW Foster\IS320 TA\Chaze\obj\x86\Debug\Chaze.csproj.CopyComplete
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.csprojAssemblyReference.cache
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.Chaze.resources
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.Properties.Resources.resources
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.csproj.GenerateResource.cache
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.csproj.CoreCompileInputs.cache
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.exe
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\obj\x86\Debug\Chaze.pdb
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\bin\Debug\Chaze.exe.config
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\bin\Debug\Chaze.exe
+C:\Users\sidew\OneDrive\UW Foster\IS320 TA\Chaze - Template\bin\Debug\Chaze.pdb
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\bin\Debug\Chaze.exe.config
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.exe
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.pdb
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\bin\Debug\Chaze.exe
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\bin\Debug\Chaze.pdb
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.Chaze.resources
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.Properties.Resources.resources
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.csproj.GenerateResource.Cache
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\bin\Debug\FinancialMarket.pdb
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.csprojAssemblyReference.cache
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.csproj.CoreCompileInputs.cache
+U:\Ryan Chiu - I S 320B\RChiu_FinalExam_Chaze\obj\x86\Debug\Chaze.csproj.CopyComplete

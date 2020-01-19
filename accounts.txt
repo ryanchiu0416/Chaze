@@ -1,0 +1,2 @@
+username,password,false
+username2,password2,true
